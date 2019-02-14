@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\Chamados.Infra.dll.config
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\Chamados.Infra.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\Chamados.Infra.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\Chamados.Domain.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\EntityFramework.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\Chamados.Domain.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\EntityFramework.xml
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\obj\Debug\Chamados.Infra.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\obj\Debug\Chamados.Infra.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\obj\Debug\Chamados.Infra.csproj.CopyComplete
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\obj\Debug\Chamados.Infra.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.Infra\obj\Debug\Chamados.Infra.pdb
