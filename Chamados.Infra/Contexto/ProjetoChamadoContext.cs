@@ -34,6 +34,7 @@ namespace Chamados.Infra.Contexto
                .Configure(p => p.HasMaxLength(100));
 
             modelBuilder.Configurations.Add(new ClienteConfiguration());
+            modelBuilder.Configurations.Add(new ChamadoConfiguration());
 
         }
 

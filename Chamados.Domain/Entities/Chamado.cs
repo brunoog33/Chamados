@@ -10,11 +10,13 @@ namespace Chamados.Domain.Entities
 
         public long ClienteId { get; set; }
 
-        public DateTime DataAbertura { get; set; }
+        public DateTime DataCadastro { get; set; }
 
         public DateTime DataEncerramento { get; set; }
 
         public int NumeroDeVezesReaberto { get; set; }
+
+        public virtual Cliente Cliente { get; set; } // Lazyload do Entity
 
         public int ContadorReabertura(int numeroDeVezesReaberto)
         {

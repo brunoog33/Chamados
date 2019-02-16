@@ -1,6 +1,7 @@
 ﻿
 
 using System;
+using System.Collections.Generic;
 
 namespace Chamados.Domain.Entities
 {
@@ -15,6 +16,8 @@ namespace Chamados.Domain.Entities
         public DateTime DataCadastro { get; set; }
 
         public bool Ativo { get; set; }
+
+        public virtual IEnumerable<Chamado> Chamados { get; set; }
 
         public bool ClienteEspecial(Cliente cliente)
         {

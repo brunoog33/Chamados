@@ -1,0 +1,6 @@
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\bin\Debug\Chamdos.Application.dll
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\bin\Debug\Chamdos.Application.pdb
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\obj\Debug\Chamdos.Application.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\obj\Debug\Chamdos.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\obj\Debug\Chamdos.Application.dll
+C:\Users\bruno\source\repos\Chamados\Chamdos.Application\obj\Debug\Chamdos.Application.pdb
