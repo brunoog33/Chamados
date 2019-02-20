@@ -22,6 +22,6 @@ namespace Chamados.MVC.ViewModel
 
         public int NumeroDeVezesReaberto { get; set; }
 
-        public virtual ClienteViewModel Cliente { get; set; } // Lazyload do Entity
+        public virtual ClienteViewModel Cliente { get; set; } // virtual - Lazyload do Entity
     }
 }

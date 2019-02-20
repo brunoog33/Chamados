@@ -1,6 +1,15 @@
-﻿namespace Chamados.MVC.AutoMapper
+﻿using AutoMapper;
+using Chamados.Domain.Entities;
+using Chamados.MVC.ViewModel;
+
+namespace Chamados.MVC.AutoMapper
 {
-    public class DomainToViewModelMappingProfile
+    public class DomainToViewModelMappingProfile : Profile
     {
+        public DomainToViewModelMappingProfile()
+        {
+            CreateMap<ClienteViewModel, Cliente>();
+            CreateMap<ChamadoViewModel, Chamado>();
+        }
     }
 }
