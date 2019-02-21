@@ -156,6 +156,7 @@
     <Compile Include="AutoMapper\AutoMapperConfig.cs" />
     <Compile Include="AutoMapper\DomainToViewModelMappingProfile.cs" />
     <Compile Include="AutoMapper\ViewModelToDomainMappingProfile.cs" />
+    <Compile Include="Controllers\ClientesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -203,6 +204,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Clientes\Index.cshtml" />
+    <Content Include="Views\Clientes\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -225,6 +228,10 @@
     <ProjectReference Include="..\Chamados.Domain\Chamados.Domain.csproj">
       <Project>{779e2f56-ebf1-4547-8391-9b3c8bf11b10}</Project>
       <Name>Chamados.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chamados.Infra\Chamados.Infra.csproj">
+      <Project>{1B5EF1D6-D6D2-4DB6-9F5F-91F25BB30764}</Project>
+      <Name>Chamados.Infra</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

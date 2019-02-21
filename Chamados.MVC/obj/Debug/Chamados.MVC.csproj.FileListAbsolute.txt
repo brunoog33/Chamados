@@ -49,6 +49,9 @@ C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\roslyn\vbc.rsp
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Antlr3.Runtime.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\AutoMapper.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Chamados.Domain.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Chamados.Infra.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -61,6 +64,7 @@ C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.CodeDom.Provider
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Newtonsoft.Json.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.ValueTuple.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Helpers.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Mvc.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Optimization.dll
@@ -69,6 +73,13 @@ C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.WebPages.Deploy
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.WebPages.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\WebGrease.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\EntityFramework.dll
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Chamados.Domain.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Chamados.Infra.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Chamados.Infra.dll.config
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\AutoMapper.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\AutoMapper.xml
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.ValueTuple.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Helpers.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Mvc.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\System.Web.Optimization.xml
@@ -84,6 +95,7 @@ C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.DependencyCol
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.AI.Web.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\EntityFramework.xml
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\pt-br\System.Web.Mvc.resources.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.MVC\bin\pt-br\System.Web.Optimization.resources.dll
