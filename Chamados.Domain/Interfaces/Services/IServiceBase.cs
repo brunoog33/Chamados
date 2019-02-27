@@ -1,9 +1,12 @@
-﻿
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Chamados.Domain.Interfaces
-{// Este repositório deve fazer o CRUD
-    public interface IRepositoryBase<TEntity> where TEntity : class // Aqui é declaro que o TEntity genérico deve ser tratado como uma classe
+namespace Chamados.Domain.Interfaces.Services
+{
+    public interface IServiceBase<TEntity> where TEntity : class
     {
         void Add(TEntity obj);
 

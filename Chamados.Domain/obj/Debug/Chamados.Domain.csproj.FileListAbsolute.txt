@@ -1,5 +1,6 @@
 C:\Users\bruno\source\repos\Chamados\Chamados.Domain\bin\Debug\Chamados.Domain.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.Domain\bin\Debug\Chamados.Domain.pdb
+C:\Users\bruno\source\repos\Chamados\Chamados.Domain\obj\Debug\Chamados.Domain.csprojAssemblyReference.cache
 C:\Users\bruno\source\repos\Chamados\Chamados.Domain\obj\Debug\Chamados.Domain.csproj.CoreCompileInputs.cache
 C:\Users\bruno\source\repos\Chamados\Chamados.Domain\obj\Debug\Chamados.Domain.dll
 C:\Users\bruno\source\repos\Chamados\Chamados.Domain\obj\Debug\Chamados.Domain.pdb
